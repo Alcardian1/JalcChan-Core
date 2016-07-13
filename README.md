@@ -5,5 +5,5 @@ This project started out from the thought that I wanted some easy way to find to
 
 
 This project is reliant on Jsoup and Alc_IO
-  https://jsoup.org/
-  https://github.com/Alcardian1/Alc_IO
+https://jsoup.org/
+https://github.com/Alcardian1/Alc_IO
